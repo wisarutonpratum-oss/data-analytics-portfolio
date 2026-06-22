@@ -59,7 +59,7 @@ Highlights
 Key takeaway:
 High revenue does not always mean healthy business performance—product-level profitability matters.
 
-➡️ Project link: [README.md](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/c34aa5efa6ac9d9a7b5e01fccb86e0fa81d785d7/README.md)
+➡️ Project link: [Financial Performance Analysis](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/c34aa5efa6ac9d9a7b5e01fccb86e0fa81d785d7/README.md)
 
 ⸻
 

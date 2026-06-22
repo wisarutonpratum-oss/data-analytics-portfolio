@@ -77,7 +77,7 @@ Highlights
 Key takeaway:
 Strong sales can hide weak profitability when discounts and low-margin products are not monitored carefully.
 
-➡️ Project link: Sales Performance Analysis
+➡️ Project link: [Sales Performance Analysis](https://github.com/wisarutonpratum-oss/sales-performance-analysis/blob/2851bcd7453b02877e557b4b64adc0fc2f64d861/README.md)
 
 ⸻
 

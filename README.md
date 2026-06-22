@@ -125,11 +125,12 @@ Improving conversion efficiency inside the funnel may be more impactful than sim
 
 Project Summary Table
 
-Project	Business Focus	Tools	Main Outcome
-Financial Performance Analysis	Revenue, profit, margin, time intelligence	SQL, Power BI, DAX	Found that Bikes drove most of the company’s losses despite generating most of the revenue
-Sales Performance Analysis	Product, category, region, discount performance	Power BI, Excel, SQL thinking	Identified loss-making products and low-profit regions such as Texas
-Customer Churn Analysis	Retention and churn risk segmentation	SQL, Power BI, DAX	Found that month-to-month and low-tenure customers had the highest churn risk
-Marketing Funnel Analysis	Conversion funnel and campaign performance	SQL, Power BI	Identified the biggest drop-off point in the customer purchase journey
+| Project | Business Focus | Tools | Main Outcome |
+| --------------- | --------------- | --------------- | --------------- |
+| Financial Performance Analysis   | Revenue, profit, margin, time intelligence   | Python, SQL, Power BI, DAX   | Found that Bikes drove most of the company’s losses despite generating most of the revenue   |
+| Customer Churn Analysis   | Retention and churn risk segmentation   | Python, SQL, Power BI, DAX   | Found that month-to-month and low-tenure customers had the highest churn risk   |
+| Sales Performance Analysis   | Product, category, region, discount performance   | Python, SQL, Power BI, DAX   | Identified loss-making products and low-profit regions such as Texas   |
+| Marketing Funnel Analysis   | Conversion funnel and campaign performance   | Python, SQL, Power BI, DAX   | Identified the biggest drop-off point in the customer purchase journey   |
 
 ⸻
 

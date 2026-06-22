@@ -165,8 +165,7 @@ I’m especially interested in roles where I can combine:
 
 Connect With Me
 
-* GitHub: [your GitHub link here]
 * LinkedIn: [your LinkedIn link here]
-* Email: [your email here]
+* Email: wisarutonpratum@gmail.com
 
 Thanks for visiting my portfolio!

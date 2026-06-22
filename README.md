@@ -11,7 +11,7 @@ Over the past few months, I’ve been building hands-on analytics projects using
 
 ⸻
 
-About Me
+## About Me
 
 * Former English teacher transitioning into Data Analytics
 * Interested in Data Analyst, BI Analyst, and eventually Financial Analyst roles
@@ -24,9 +24,9 @@ About Me
 
 ⸻
 
-Skills & Tools
+## Skills & Tools
 
-Data Analysis & BI
+### Data Analysis & BI
 
 * SQL — joins, aggregations, CTEs, ranking functions, KPI analysis
 * Power BI — dashboard building, data modeling, DAX measures, time intelligence
@@ -34,7 +34,7 @@ Data Analysis & BI
 * DAX — revenue/profit metrics, churn measures, funnel KPIs, YTD/YoY analysis
 * Python — learning data cleaning and analysis workflows with pandas
 
-Business Areas Covered in My Projects
+### Business Areas Covered in My Projects
 
 * Sales Performance Analysis
 * Customer Churn Analysis
@@ -43,9 +43,9 @@ Business Areas Covered in My Projects
 
 ⸻
 
-Featured Projects
+## Featured Projects
 
-1) Financial Performance Analysis
+### 1) Financial Performance Analysis
 
 Goal: Understand why the business generated strong revenue but still ended up unprofitable.
 
@@ -63,7 +63,7 @@ High revenue does not always mean healthy business performance—product-level p
 
 ⸻
 
-2) Sales Performance Analysis
+### 2) Sales Performance Analysis
 
 Goal: Evaluate sales and profitability across categories, products, discounts, and regions.
 
@@ -81,7 +81,7 @@ Strong sales can hide weak profitability when discounts and low-margin products 
 
 ⸻
 
-3) Customer Churn Analysis
+### 3) Customer Churn Analysis
 
 Goal: Identify which customer groups are most likely to churn and what factors drive churn risk.
 
@@ -100,7 +100,7 @@ Short contract commitment and low tenure are major churn risk signals, especiall
 
 ⸻
 
-4) Marketing / E-commerce Funnel Analysis
+### 4) Marketing / E-commerce Funnel Analysis
 
 Goal: Understand where users drop off in the purchase journey and which campaigns drive conversion.
 
@@ -123,7 +123,7 @@ Improving conversion efficiency inside the funnel may be more impactful than sim
 
 ⸻
 
-Project Summary Table
+## Project Summary Table
 
 | Project | Business Focus | Tools | Main Outcome |
 | :--------------- | :--------------- | :--------------- | :--------------- |
@@ -134,7 +134,7 @@ Project Summary Table
 
 ⸻
 
-What I’m Working On Now
+## What I’m Working On Now
 
 I’m currently focused on strengthening the skills needed for an entry-level Data Analyst / BI Analyst role:
 
@@ -145,7 +145,7 @@ I’m currently focused on strengthening the skills needed for an entry-level Da
 
 ⸻
 
-What I’m Looking For
+## What I’m Looking For
 
 I’m currently preparing for opportunities in:
 
@@ -163,9 +163,10 @@ I’m especially interested in roles where I can combine:
 
 ⸻
 
-Connect With Me
+## Connect With Me
 
 * LinkedIn: [your LinkedIn link here]
 * Email: wisarutonpratum@gmail.com
+* Phone: +66 921591123
 
 Thanks for visiting my portfolio!

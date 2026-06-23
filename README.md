@@ -1,13 +1,10 @@
 # Data Analytics Portfolio
 Portfolio of data analytics projects built during my transition from English teacher to Data Analyst.
 
-Hi, I’m Wisarut Onpratum
+Hi, I'm **Wisarut Onpratum** — a data analyst candidate with hands-on project experience in **SQL, Excel, Python, and Power BI**.  
+I build business-focused analytics projects that turn raw data into dashboards, measurable insights, and actionable recommendations.
 
-Aspiring Data Analyst | Transitioning from English Teacher to Data Analyst
-
-I’m currently transitioning from a background in English teaching into Data Analytics / BI Analysis, with a growing focus on business performance, customer behavior, marketing funnel analysis, and financial reporting.
-
-Over the past few months, I’ve been building hands-on analytics projects using SQL, Power BI, Excel, and DAX, with the goal of solving real business questions—not just creating dashboards. My portfolio focuses on turning raw data into clear business insights and practical recommendations.
+This portfolio showcases end-to-end analytics projects across **financial performance, sales profitability, customer churn, and e-commerce funnel conversion**. Each project follows a practical analytics workflow: **data checking, SQL analysis, KPI development, dashboard building, and business recommendations**.
 
 ⸻
 
@@ -45,81 +42,151 @@ Over the past few months, I’ve been building hands-on analytics projects using
 
 ## Featured Projects
 
-### 1) Financial Performance Analysis
+## 1) Financial Performance Analysis
+**Goal:** Evaluate revenue, cost, and profit performance over time and identify underperforming product categories and sub-categories.
 
-Goal: Understand why the business generated strong revenue but still ended up unprofitable.
+### Business Questions
+- How have revenue and profit changed over time?
+- Which product categories generate the most revenue, and which are unprofitable?
+- Which sub-categories are driving losses or profit growth?
+- How can time intelligence metrics support financial performance monitoring?
 
-Highlights
+### Tools Used
+- **SQL** — KPI calculations, category/sub-category profitability analysis, and trend reporting
+- **Python** — basic data checking and validation
+- **Power BI** — financial dashboard with time intelligence measures and profitability breakdowns
 
-* Analyzed AdventureWorks sales and product data using SQL + Power BI
-* Built a financial dashboard covering Revenue, Cost, Gross Profit, Gross Margin %, YTD, and YoY
-* Found that the business generated $80.49M in revenue but recorded -$2.32M in gross profit
-* Identified Bikes as the main source of losses, especially Road Bikes (-$2.49M) and Touring Bikes (-$1.24M)
+### Key Highlights
+- Analyzed **$80.49M in revenue** across **60,919 orders** and **214,516 units sold**
+- Found that **Bikes** generated the highest revenue but also drove the largest overall loss
+- Identified **Road Bikes** and **Touring Bikes** as major loss-making sub-categories despite strong sales volume
+- Built time-based analysis for **monthly revenue, monthly profit, and YTD comparisons**
 
-Key takeaway:
-High revenue does not always mean healthy business performance—product-level profitability matters.
-
-➡️ Project link: [Financial Performance Analysis](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/c34aa5efa6ac9d9a7b5e01fccb86e0fa81d785d7/README.md)
-
-⸻
-
-### 2) Sales Performance Analysis
-
-Goal: Evaluate sales and profitability across categories, products, discounts, and regions.
-
-Highlights
-
-* Analyzed Superstore data to identify underperforming categories and regions
-* Built a Power BI dashboard covering Revenue, Profit, Profit Margin, Orders, and Customers
-* Found that Technology was the strongest category, while Furniture had weak profitability
-* Identified Tables as a major loss-making subcategory and Texas as the most problematic state
-
-Key takeaway:
-Strong sales can hide weak profitability when discounts and low-margin products are not monitored carefully.
-
-➡️ Project link: [Sales Performance Analysis](https://github.com/wisarutonpratum-oss/sales-performance-analysis/blob/2851bcd7453b02877e557b4b64adc0fc2f64d861/README.md)
+🔗 **Repository:** [financial-performance-analysis](https://github.com/wisarutonpratum-oss/financial-performance-analysis)
 
 ⸻
 
-### 3) Customer Churn Analysis
+## 2) Sales Performance Analysis
+**Goal:** Analyze sales, profit, geography, and discount impact to identify the main drivers of weak profitability.
 
-Goal: Identify which customer groups are most likely to churn and what factors drive churn risk.
+### Business Questions
+- Which categories and sub-categories contribute the most sales and profit?
+- Which products are driving losses despite strong revenue?
+- Which regions or states underperform financially?
+- How does discounting affect profitability?
 
-Highlights
+### Tools Used
+- **SQL** — KPI reporting, category and regional sales analysis, profit margin analysis, discount analysis
+- **Python** — basic data validation
+- **Power BI** — dashboard covering overview, product profitability, geographical analysis, and discount impact
 
-* Analyzed telecom churn data using SQL + Power BI
-* Built churn KPIs and segmented customers by contract type, tenure group, and payment method
-* Found that Month-to-month customers had the highest churn rate (43%)
-* Found that customers in their first 12 months had the highest churn risk (47.44%)
-* Identified electronic check customers as another high-risk segment
+### Key Highlights
+- Analyzed **$2.30M in sales**, **$286.4K in profit**, and **9,994 orders**
+- Found that **Technology** was the top-performing category, while **Furniture** had the weakest profitability
+- Identified **Tables** and **Bookcases** as major drivers of Furniture losses
+- Found that **Texas** generated high sales but remained one of the least profitable states
+- Observed that **higher discount levels were associated with lower profitability**
 
-Key takeaway:
-Short contract commitment and low tenure are major churn risk signals, especially when combined.
-
-➡️ Project link: [Customer Churn Analysis](https://github.com/wisarutonpratum-oss/customer-churn-analysis/blob/31aeb587498a07aab8b4ac457f481cc8e1b07444/README.md)
+🔗 **Repository:** [sales-performance-analysis](https://github.com/wisarutonpratum-oss/sales-performance-analysis)
 
 ⸻
 
-### 4) Marketing / E-commerce Funnel Analysis
+## 3) Customer Churn Analysis
+**Goal:** Identify which customer segments are most likely to churn and uncover the main churn drivers for retention strategy.
 
-Goal: Understand where users drop off in the purchase journey and which campaigns drive conversion.
+### Business Questions
+- What is the overall churn rate?
+- How does churn differ by contract type and tenure group?
+- Which customer attributes are most associated with churn?
+- What actions could reduce churn among high-risk customer segments?
 
-Highlights
+### Tools Used
+- **SQL** — churn KPI calculations, churn segmentation by contract, tenure, payment method, and internet service
+- **Python** — basic data validation
+- **Power BI** — dashboard for churn overview, customer segmentation, and churn drivers
 
-* Analyzed 120,000 e-commerce sessions
-* Measured funnel performance across:
-    * website visits
-    * product views
-    * cart additions
-    * checkout starts
-    * purchases
-* Found that the biggest drop-off happened between product view → add to cart
-* Compared conversion and revenue by campaign type, region, and discount usage
+### Key Highlights
+- Analyzed **7,043 customers** with an overall churn rate of **26.54%**
+- Found that **month-to-month customers** had a churn rate of **42.71%**, far above annual contract customers
+- Found that customers in their first **0–12 months** had the highest churn rate at **47.44%**
+- Identified **electronic check** users as the highest-risk payment segment with **45.29% churn**
+- Observed that churn decreases significantly as tenure increases
 
-Key takeaway:
-Improving conversion efficiency inside the funnel may be more impactful than simply increasing traffic.
+🔗 **Repository:** [customer-churn-analysis](https://github.com/wisarutonpratum-oss/customer-churn-analysis)
 
-➡️ Project link: [E-Commerce Funnel Analysis](https://github.com/wisarutonpratum-oss/ecommerce-funnel-analysis/blob/2132d13308889c6115ec7ac7c105c9a326a41dca/README.md)
+⸻
+
+## 4) E-Commerce Funnel Analysis
+**Goal:** Analyze customer progression through the purchase funnel and evaluate conversion performance across channels, devices, and user segments.
+
+### Business Questions
+- Where is the biggest drop-off in the e-commerce funnel?
+- What is the session-to-purchase conversion rate?
+- Do conversion rates differ across channels, devices, or user types?
+- Which channels and campaign types drive the strongest revenue outcomes?
+
+### Tools Used
+- **SQL** — funnel KPI analysis, stage conversion analysis, channel/device/user-type segmentation, monthly performance tracking
+- **Python** — basic data validation
+- **Power BI** — dashboard covering executive funnel overview, conversion analysis, and campaign/revenue analysis
+
+### Key Highlights
+- Analyzed **120,000 sessions**, **8,181 purchases**, and **$17.02M in revenue**
+- Found that the biggest funnel drop-off occurred between **Product View** and **Add to Cart**
+- Observed that conversion rates were very similar across **devices** and **channels**
+- Found that **Paid Ads** drove the highest traffic and revenue, although cost-effectiveness could not be assessed without cost data
+- Recommended focusing on the **product evaluation stage** rather than device optimization first
+
+🔗 **Repository:** [ecommerce-funnel-analysis](https://github.com/wisarutonpratum-oss/ecommerce-funnel-analysis)
+
+⸻
+
+# Skills Demonstrated
+
+## SQL
+- KPI aggregation and business reporting
+- CTEs, `CASE WHEN`, `GROUP BY`, joins, and window functions
+- Funnel analysis, churn segmentation, profitability analysis, and trend reporting
+
+## Excel
+- **Lookup functions:** `XLOOKUP`, `INDEX/MATCH`
+- **Aggregation functions:** `SUMIFS`, `COUNTIFS`, `AVERAGEIFS`
+- **Logical functions:** `IF`, `AND`, `OR`, `IFERROR`
+- **Text cleaning and manipulation:** `TRIM`, `CLEAN`, `LEFT`, `RIGHT`, `MID`
+- **Pivot Tables & Pivot Charts** for summarizing and exploring business data
+- **Power Query** for cleaning, reshaping, and preparing datasets
+- **Power Pivot / DAX** for creating calculated measures and data models
+
+## Python
+Used for basic data checking and validation, including:
+- `.head()`
+- `.shape`
+- `.info()`
+- `.describe()`
+- `.isnull().sum()`
+- `.duplicated().sum()`
+
+## Power BI
+- Interactive dashboard design
+- DAX measures for KPI reporting and time intelligence
+- Funnel, churn, financial, and profitability dashboards
+- Business storytelling through dashboard layout and metric selection
+
+## Business Analysis
+- Revenue and profit analysis
+- Churn and retention analysis
+- Funnel conversion analysis
+- Product/category profitability analysis
+- Translating analytical findings into business recommendations
+
+⸻
+
+# Featured Strengths
+- Building KPI-driven dashboards in **Power BI**
+- Writing **SQL** for sales, churn, finance, and funnel analysis
+- Using **Excel** for data cleaning, lookup logic, aggregation, and pivot-based reporting
+- Translating business questions into structured analysis and recommendations
+- Presenting insights clearly through project documentation and dashboard storytelling
 
 ⸻
 
@@ -170,3 +237,8 @@ I’m especially interested in roles where I can combine:
 * Phone: +66 921591123
 
 Thanks for visiting my portfolio!
+
+⸻
+
+# Repository Structure
+This repository serves as the main landing page for my analytics portfolio and links to the individual project repositories listed above.

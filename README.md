@@ -96,7 +96,7 @@ Highlights
 Key takeaway:
 Short contract commitment and low tenure are major churn risk signals, especially when combined.
 
-➡️ Project link: Customer Churn Analysis
+➡️ Project link: [Customer Churn Analysis](https://github.com/wisarutonpratum-oss/customer-churn-analysis/blob/31aeb587498a07aab8b4ac457f481cc8e1b07444/README.md)
 
 ⸻
 
@@ -119,7 +119,7 @@ Highlights
 Key takeaway:
 Improving conversion efficiency inside the funnel may be more impactful than simply increasing traffic.
 
-➡️ Project link: Marketing Funnel Analysis
+➡️ Project link: [E-Commerce Funnel Analysis](https://github.com/wisarutonpratum-oss/ecommerce-funnel-analysis/blob/2132d13308889c6115ec7ac7c105c9a326a41dca/README.md)
 
 ⸻
 
@@ -130,7 +130,7 @@ Improving conversion efficiency inside the funnel may be more impactful than sim
 | Financial Performance Analysis   | Revenue, profit, margin, time intelligence   | Python, SQL, Power BI, DAX   | Found that Bikes drove most of the company’s losses despite generating most of the revenue   |
 | Customer Churn Analysis   | Retention and churn risk segmentation   | Python, SQL, Power BI, DAX   | Found that month-to-month and low-tenure customers had the highest churn risk   |
 | Sales Performance Analysis   | Product, category, region, discount performance   | Python, SQL, Power BI, DAX   | Identified loss-making products and low-profit regions such as Texas   |
-| Marketing Funnel Analysis   | Conversion funnel and campaign performance   | Python, SQL, Power BI, DAX   | Identified the biggest drop-off point in the customer purchase journey   |
+| E-Commerce Funnel Analysis   | Conversion funnel and campaign performance   | Python, SQL, Power BI, DAX   | Identified the biggest drop-off point in the customer purchase journey   |
 
 ⸻
 

@@ -229,7 +229,7 @@ I’m especially interested in roles where I can combine:
 
 ## Connect With Me
 
-* LinkedIn: [your LinkedIn link here]
+* LinkedIn: www.linkedin.com/in/wisarutonpratum
 * Email: wisarutonpratum@gmail.com
 * Phone: +66 921591123
 

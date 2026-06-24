@@ -45,6 +45,8 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 ## 1) Financial Performance Analysis
 **Goal:** Evaluate revenue, cost, and profit performance over time and identify underperforming product categories and sub-categories.
 
+![Dashboard Preview](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/b199075946580ba40beaeea583ce4ae527cf4e3f/assets/dashboard-overview.png)
+
 ### Business Questions
 - How have revenue and profit changed over time?
 - Which product categories generate the most revenue, and which are unprofitable?
@@ -68,6 +70,8 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 
 ## 2) Sales Performance Analysis
 **Goal:** Analyze sales, profit, geography, and discount impact to identify the main drivers of weak profitability.
+
+![Dashboard Preview](https://github.com/wisarutonpratum-oss/sales-performance-analysis/blob/f4df7ecbd802bd5ff4aa16a37dda60357c3d8d8a/assets/dashboard-overview.png)
 
 ### Business Questions
 - Which categories and sub-categories contribute the most sales and profit?
@@ -94,6 +98,8 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 ## 3) Customer Churn Analysis
 **Goal:** Identify which customer segments are most likely to churn and uncover the main churn drivers for retention strategy.
 
+![Dashboard Preview](https://github.com/wisarutonpratum-oss/customer-churn-analysis/blob/31aeb587498a07aab8b4ac457f481cc8e1b07444/assets/executive-overview.png)
+
 ### Business Questions
 - What is the overall churn rate?
 - How does churn differ by contract type and tenure group?
@@ -118,6 +124,8 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 
 ## 4) E-Commerce Funnel Analysis
 **Goal:** Analyze customer progression through the purchase funnel and evaluate conversion performance across channels, devices, and user segments.
+
+![Dashboard Preview](https://github.com/wisarutonpratum-oss/ecommerce-funnel-analysis/blob/9a3a67fcad684fca1a26176f3a97aed119442b50/assets/executive-overview.png)
 
 ### Business Questions
 - Where is the biggest drop-off in the e-commerce funnel?
@@ -158,13 +166,7 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 - **Power Pivot / DAX** for creating calculated measures and data models
 
 ## Python
-Used for basic data checking and validation, including:
-- `.head()`
-- `.shape`
-- `.info()`
-- `.describe()`
-- `.isnull().sum()`
-- `.duplicated().sum()`
+- Used Python (Pandas, NumPy) for data validation and exploratory data analysis including null checks, duplicate detection, shape inspection, and descriptive statistics prior to SQL analysis.
 
 ## Power BI
 - Interactive dashboard design
@@ -203,12 +205,7 @@ Used for basic data checking and validation, including:
 
 ## What I’m Working On Now
 
-I’m currently focused on strengthening the skills needed for an entry-level Data Analyst / BI Analyst role:
-
-* Improving SQL problem-solving for interviews
-* Practicing business case thinking and insight communication
-* Expanding my Python / pandas skills for data cleaning and exploratory analysis
-* Refining my dashboards and project write-ups to make them more recruiter-friendly
+Currently deepening SQL problem-solving skills for analytical interviews, expanding Python/Pandas workflows for EDA, and building toward roles where business thinking and dashboard reporting intersect.
 
 ⸻
 

@@ -45,7 +45,7 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 ## 1) Financial Performance Analysis
 **Goal:** Evaluate revenue, cost, and profit performance over time and identify underperforming product categories and sub-categories.
 
-![Dashboard Preview](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/b199075946580ba40beaeea583ce4ae527cf4e3f/assets/dashboard-overview.png)
+![Dashboard Preview](https://github.com/wisarutonpratum-oss/financial-performance-analysis/blob/02de367e17bb6cb39cf9e1086df7b5c9e5954896/assets/dashboard-overview-v3.png)
 
 ### Business Questions
 - How have revenue and profit changed over time?

@@ -10,8 +10,6 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 
 ## About Me
 
-## About Me
-
 * Data analyst candidate transitioning from 3 years as a government English teacher
   and department head into Data Analytics
 * Served concurrently as **Head of Foreign Language Department** — leading 7 teachers

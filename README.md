@@ -10,9 +10,20 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 
 ## About Me
 
-* Former English teacher transitioning into Data Analytics
-* Interested in Data Analyst, BI Analyst, and eventually Financial Analyst roles
-* Comfortable with Excel, Power BI, DAX, and SQL, and currently building my Python foundation
+## About Me
+
+* Data analyst candidate transitioning from 3 years as a government English teacher
+  and department head into Data Analytics
+* Served concurrently as **Head of Foreign Language Department** — leading 7 teachers
+  across 2 curriculum tracks and 25+ subjects, coordinating reporting across a
+  50-person staff
+* Worked as **Procurement Staff under the Budget Management Division** — managing
+  end-to-end procurement workflows and budget utilization data across 5 divisions
+  with approximately ฿4,000,000 in annual budget
+* Interested in Data Analyst, BI Analyst, Reporting Analyst, and eventually
+  Financial Analyst roles
+* Comfortable with SQL, Power BI, DAX, and Excel, and actively expanding Python
+  workflows for EDA and data cleaning
 * Focused on business-oriented analytics projects that answer questions such as:
     * Why is profit declining despite revenue growth?
     * Which customer groups are most likely to churn?
@@ -196,10 +207,10 @@ This portfolio showcases end-to-end analytics projects across **financial perfor
 
 | Project | Business Focus | Tools | Main Outcome |
 | :--------------- | :--------------- | :--------------- | :--------------- |
-| Financial Performance Analysis   | Revenue, profit, margin, time intelligence   | Python, SQL, Power BI, DAX   | Found that Bikes drove most of the company’s losses despite generating most of the revenue   |
-| Customer Churn Analysis   | Retention and churn risk segmentation   | Python, SQL, Power BI, DAX   | Found that month-to-month and low-tenure customers had the highest churn risk   |
-| Sales Performance Analysis   | Product, category, region, discount performance   | Python, SQL, Power BI, DAX   | Identified loss-making products and low-profit regions such as Texas   |
-| E-Commerce Funnel Analysis   | Conversion funnel and campaign performance   | Python, SQL, Power BI, DAX   | Identified the biggest drop-off point in the customer purchase journey   |
+| Financial Performance Analysis | Revenue, profit, margin, time intelligence | Python, SQL, Power BI, DAX | Found Bikes as top revenue driver but primary loss source — recommended cost and pricing review for Road and Touring Bikes |
+| Customer Churn Analysis | Retention and churn risk segmentation | Python, SQL, Power BI, DAX | Found month-to-month and low-tenure customers had the highest churn risk — recommended early-tenure retention interventions |
+| Sales Performance Analysis | Product, category, region, discount performance | Python, SQL, Power BI, DAX | Identified Tables and Bookcases as loss drivers and Texas as low-profit region — recommended discount policy review |
+| E-Commerce Funnel Analysis | Conversion funnel and campaign performance | Python, SQL, Power BI, DAX | Identified from Product View to Add to Cart as the critical drop-off — recommended prioritizing product evaluation experience |
 
 ⸻
 
